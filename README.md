@@ -71,7 +71,7 @@ Histórico apagado.
 
 ---
 
-## 🚀 Possíveis melhorias
+##  Possíveis melhorias
 
 * Limitar tamanho do histórico (evitar consumo de memória)
 * Adicionar salvamento em arquivo (`.json` ou `.txt`)
@@ -81,7 +81,7 @@ Histórico apagado.
 
 ---
 
-## 📚 Observação
+## Observação
 
 Se o streaming não funcionar corretamente:
 
@@ -92,4 +92,4 @@ ollama run mistral
 ```
 ---
 
-Feito para estudo de LLMs locais com Python + LangChain ⚡
+Feito para estudo de LLMs locais com Python + LangChain
