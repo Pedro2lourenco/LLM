@@ -1,4 +1,4 @@
-# 💬 Chat CLI com LangChain + Ollama (Streaming + Memória)
+# Chat CLI com LangChain + Ollama (Streaming + Memória)
 
 Este projeto é um chatbot simples em terminal que utiliza **LangChain** com **Ollama (modelo Mistral)**, suportando:
 
@@ -8,7 +8,7 @@ Este projeto é um chatbot simples em terminal que utiliza **LangChain** com **O
 
 ---
 
-## 📌 Requisitos
+## Requisitos
 
 * Python 3.9+
 * Ollama instalado e rodando
